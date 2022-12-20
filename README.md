@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @rexyou0831
+- 👀 I’m interested in coding, solving problem, new framework
+- 🌱 I’m currently learning Laravel, React 
+- 💞️ I’m looking to collaborate on anyone
+- 📫 How to reach me - reached me by email rexyou@jobstore.com
+- If you're looking for freelance for fixing Laravel or other framework problems, you may come chat with me.
